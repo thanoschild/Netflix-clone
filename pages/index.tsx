@@ -46,7 +46,7 @@ const Home = ({
       }`}>
       <Head>
         <title>Netflix - Home</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/netflix.png" />
       </Head>
       <Header/>
       <main className='relative pl-4 lg:pb-24 lg:space-y-24 lg:pl-16 md:pb-20'>
