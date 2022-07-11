@@ -28,8 +28,8 @@ function Login() {
   return (
     <div className="relative flex h-screen w-screen flex-col bg-black md:items-center md:justify-center md:bg-transparent">
       <Head>
-        <title>Netflix - Login</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Netflix - Watch TV Shows Online, Watch Movies Online</title>
+        <link rel="icon" href="/netflix.png" />
       </Head>
       <Image
         src="https://rb.gy/p2hphi"
